@@ -1,0 +1,15 @@
+C:\Users\GD Student\Desktop\11-10\SHVFS_P101_GD08_Q2022-11-10_Hardy\SHVFS_P101_GD08_Q2022-11-10_Hardy\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Hardy.exe
+C:\Users\GD Student\Desktop\11-10\SHVFS_P101_GD08_Q2022-11-10_Hardy\SHVFS_P101_GD08_Q2022-11-10_Hardy\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Hardy.deps.json
+C:\Users\GD Student\Desktop\11-10\SHVFS_P101_GD08_Q2022-11-10_Hardy\SHVFS_P101_GD08_Q2022-11-10_Hardy\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Hardy.runtimeconfig.json
+C:\Users\GD Student\Desktop\11-10\SHVFS_P101_GD08_Q2022-11-10_Hardy\SHVFS_P101_GD08_Q2022-11-10_Hardy\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Hardy.dll
+C:\Users\GD Student\Desktop\11-10\SHVFS_P101_GD08_Q2022-11-10_Hardy\SHVFS_P101_GD08_Q2022-11-10_Hardy\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Hardy.pdb
+C:\Users\GD Student\Desktop\11-10\SHVFS_P101_GD08_Q2022-11-10_Hardy\SHVFS_P101_GD08_Q2022-11-10_Hardy\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Hardy.csproj.AssemblyReference.cache
+C:\Users\GD Student\Desktop\11-10\SHVFS_P101_GD08_Q2022-11-10_Hardy\SHVFS_P101_GD08_Q2022-11-10_Hardy\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Hardy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GD Student\Desktop\11-10\SHVFS_P101_GD08_Q2022-11-10_Hardy\SHVFS_P101_GD08_Q2022-11-10_Hardy\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Hardy.AssemblyInfoInputs.cache
+C:\Users\GD Student\Desktop\11-10\SHVFS_P101_GD08_Q2022-11-10_Hardy\SHVFS_P101_GD08_Q2022-11-10_Hardy\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Hardy.AssemblyInfo.cs
+C:\Users\GD Student\Desktop\11-10\SHVFS_P101_GD08_Q2022-11-10_Hardy\SHVFS_P101_GD08_Q2022-11-10_Hardy\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Hardy.csproj.CoreCompileInputs.cache
+C:\Users\GD Student\Desktop\11-10\SHVFS_P101_GD08_Q2022-11-10_Hardy\SHVFS_P101_GD08_Q2022-11-10_Hardy\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Hardy.dll
+C:\Users\GD Student\Desktop\11-10\SHVFS_P101_GD08_Q2022-11-10_Hardy\SHVFS_P101_GD08_Q2022-11-10_Hardy\obj\Debug\net6.0\refint\SHVFS_P101_GD08_Q2022-11-10_Hardy.dll
+C:\Users\GD Student\Desktop\11-10\SHVFS_P101_GD08_Q2022-11-10_Hardy\SHVFS_P101_GD08_Q2022-11-10_Hardy\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Hardy.pdb
+C:\Users\GD Student\Desktop\11-10\SHVFS_P101_GD08_Q2022-11-10_Hardy\SHVFS_P101_GD08_Q2022-11-10_Hardy\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Hardy.genruntimeconfig.cache
+C:\Users\GD Student\Desktop\11-10\SHVFS_P101_GD08_Q2022-11-10_Hardy\SHVFS_P101_GD08_Q2022-11-10_Hardy\obj\Debug\net6.0\ref\SHVFS_P101_GD08_Q2022-11-10_Hardy.dll
