@@ -1,0 +1,15 @@
+C:\Users\GD Student\Desktop\T1\Programming\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_HW2_Hardy\SHVFS_P101_GD08_HW2_Hardy\bin\Debug\net6.0\SHVFS_P101_GD08_HW2_Hardy.exe
+C:\Users\GD Student\Desktop\T1\Programming\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_HW2_Hardy\SHVFS_P101_GD08_HW2_Hardy\bin\Debug\net6.0\SHVFS_P101_GD08_HW2_Hardy.deps.json
+C:\Users\GD Student\Desktop\T1\Programming\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_HW2_Hardy\SHVFS_P101_GD08_HW2_Hardy\bin\Debug\net6.0\SHVFS_P101_GD08_HW2_Hardy.runtimeconfig.json
+C:\Users\GD Student\Desktop\T1\Programming\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_HW2_Hardy\SHVFS_P101_GD08_HW2_Hardy\bin\Debug\net6.0\SHVFS_P101_GD08_HW2_Hardy.dll
+C:\Users\GD Student\Desktop\T1\Programming\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_HW2_Hardy\SHVFS_P101_GD08_HW2_Hardy\bin\Debug\net6.0\SHVFS_P101_GD08_HW2_Hardy.pdb
+C:\Users\GD Student\Desktop\T1\Programming\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_HW2_Hardy\SHVFS_P101_GD08_HW2_Hardy\obj\Debug\net6.0\SHVFS_P101_GD08_HW2_Hardy.csproj.AssemblyReference.cache
+C:\Users\GD Student\Desktop\T1\Programming\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_HW2_Hardy\SHVFS_P101_GD08_HW2_Hardy\obj\Debug\net6.0\SHVFS_P101_GD08_HW2_Hardy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GD Student\Desktop\T1\Programming\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_HW2_Hardy\SHVFS_P101_GD08_HW2_Hardy\obj\Debug\net6.0\SHVFS_P101_GD08_HW2_Hardy.AssemblyInfoInputs.cache
+C:\Users\GD Student\Desktop\T1\Programming\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_HW2_Hardy\SHVFS_P101_GD08_HW2_Hardy\obj\Debug\net6.0\SHVFS_P101_GD08_HW2_Hardy.AssemblyInfo.cs
+C:\Users\GD Student\Desktop\T1\Programming\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_HW2_Hardy\SHVFS_P101_GD08_HW2_Hardy\obj\Debug\net6.0\SHVFS_P101_GD08_HW2_Hardy.csproj.CoreCompileInputs.cache
+C:\Users\GD Student\Desktop\T1\Programming\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_HW2_Hardy\SHVFS_P101_GD08_HW2_Hardy\obj\Debug\net6.0\SHVFS_P101_GD08_HW2_Hardy.dll
+C:\Users\GD Student\Desktop\T1\Programming\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_HW2_Hardy\SHVFS_P101_GD08_HW2_Hardy\obj\Debug\net6.0\refint\SHVFS_P101_GD08_HW2_Hardy.dll
+C:\Users\GD Student\Desktop\T1\Programming\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_HW2_Hardy\SHVFS_P101_GD08_HW2_Hardy\obj\Debug\net6.0\SHVFS_P101_GD08_HW2_Hardy.pdb
+C:\Users\GD Student\Desktop\T1\Programming\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_HW2_Hardy\SHVFS_P101_GD08_HW2_Hardy\obj\Debug\net6.0\SHVFS_P101_GD08_HW2_Hardy.genruntimeconfig.cache
+C:\Users\GD Student\Desktop\T1\Programming\SHVFS_P101_GD08\SHVFS_P101_GD08_C1\SHVFS_P101_GD08_HW2_Hardy\SHVFS_P101_GD08_HW2_Hardy\obj\Debug\net6.0\ref\SHVFS_P101_GD08_HW2_Hardy.dll
