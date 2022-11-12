@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SHVFS_2022-11-10_Course_Note/1.0.0": {
+        "runtime": {
+          "SHVFS_2022-11-10_Course_Note.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SHVFS_2022-11-10_Course_Note/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

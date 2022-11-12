@@ -1,0 +1,15 @@
+C:\Users\GD Student\Desktop\11-10\SHVFS_2022-11-10_Course_Note\SHVFS_2022-11-10_Course_Note\bin\Debug\net6.0\SHVFS_2022-11-10_Course_Note.exe
+C:\Users\GD Student\Desktop\11-10\SHVFS_2022-11-10_Course_Note\SHVFS_2022-11-10_Course_Note\bin\Debug\net6.0\SHVFS_2022-11-10_Course_Note.deps.json
+C:\Users\GD Student\Desktop\11-10\SHVFS_2022-11-10_Course_Note\SHVFS_2022-11-10_Course_Note\bin\Debug\net6.0\SHVFS_2022-11-10_Course_Note.runtimeconfig.json
+C:\Users\GD Student\Desktop\11-10\SHVFS_2022-11-10_Course_Note\SHVFS_2022-11-10_Course_Note\bin\Debug\net6.0\SHVFS_2022-11-10_Course_Note.dll
+C:\Users\GD Student\Desktop\11-10\SHVFS_2022-11-10_Course_Note\SHVFS_2022-11-10_Course_Note\bin\Debug\net6.0\SHVFS_2022-11-10_Course_Note.pdb
+C:\Users\GD Student\Desktop\11-10\SHVFS_2022-11-10_Course_Note\SHVFS_2022-11-10_Course_Note\obj\Debug\net6.0\SHVFS_2022-11-10_Course_Note.csproj.AssemblyReference.cache
+C:\Users\GD Student\Desktop\11-10\SHVFS_2022-11-10_Course_Note\SHVFS_2022-11-10_Course_Note\obj\Debug\net6.0\SHVFS_2022-11-10_Course_Note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GD Student\Desktop\11-10\SHVFS_2022-11-10_Course_Note\SHVFS_2022-11-10_Course_Note\obj\Debug\net6.0\SHVFS_2022-11-10_Course_Note.AssemblyInfoInputs.cache
+C:\Users\GD Student\Desktop\11-10\SHVFS_2022-11-10_Course_Note\SHVFS_2022-11-10_Course_Note\obj\Debug\net6.0\SHVFS_2022-11-10_Course_Note.AssemblyInfo.cs
+C:\Users\GD Student\Desktop\11-10\SHVFS_2022-11-10_Course_Note\SHVFS_2022-11-10_Course_Note\obj\Debug\net6.0\SHVFS_2022-11-10_Course_Note.csproj.CoreCompileInputs.cache
+C:\Users\GD Student\Desktop\11-10\SHVFS_2022-11-10_Course_Note\SHVFS_2022-11-10_Course_Note\obj\Debug\net6.0\SHVFS_2022-11-10_Course_Note.dll
+C:\Users\GD Student\Desktop\11-10\SHVFS_2022-11-10_Course_Note\SHVFS_2022-11-10_Course_Note\obj\Debug\net6.0\refint\SHVFS_2022-11-10_Course_Note.dll
+C:\Users\GD Student\Desktop\11-10\SHVFS_2022-11-10_Course_Note\SHVFS_2022-11-10_Course_Note\obj\Debug\net6.0\SHVFS_2022-11-10_Course_Note.pdb
+C:\Users\GD Student\Desktop\11-10\SHVFS_2022-11-10_Course_Note\SHVFS_2022-11-10_Course_Note\obj\Debug\net6.0\SHVFS_2022-11-10_Course_Note.genruntimeconfig.cache
+C:\Users\GD Student\Desktop\11-10\SHVFS_2022-11-10_Course_Note\SHVFS_2022-11-10_Course_Note\obj\Debug\net6.0\ref\SHVFS_2022-11-10_Course_Note.dll
