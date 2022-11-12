@@ -1,0 +1,15 @@
+C:\Users\GD Student\Desktop\2022.10.13\SHVFS_P101_GD08_Hardy_April\SHVFS_P101_GD08_Hardy_April\obj\Debug\net6.0\SHVFS_P101_GD08_Hardy_April.csproj.AssemblyReference.cache
+C:\Users\GD Student\Desktop\2022.10.13\SHVFS_P101_GD08_Hardy_April\SHVFS_P101_GD08_Hardy_April\obj\Debug\net6.0\SHVFS_P101_GD08_Hardy_April.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GD Student\Desktop\2022.10.13\SHVFS_P101_GD08_Hardy_April\SHVFS_P101_GD08_Hardy_April\obj\Debug\net6.0\SHVFS_P101_GD08_Hardy_April.AssemblyInfoInputs.cache
+C:\Users\GD Student\Desktop\2022.10.13\SHVFS_P101_GD08_Hardy_April\SHVFS_P101_GD08_Hardy_April\obj\Debug\net6.0\SHVFS_P101_GD08_Hardy_April.AssemblyInfo.cs
+C:\Users\GD Student\Desktop\2022.10.13\SHVFS_P101_GD08_Hardy_April\SHVFS_P101_GD08_Hardy_April\obj\Debug\net6.0\SHVFS_P101_GD08_Hardy_April.csproj.CoreCompileInputs.cache
+C:\Users\GD Student\Desktop\2022.10.13\SHVFS_P101_GD08_Hardy_April\SHVFS_P101_GD08_Hardy_April\bin\Debug\net6.0\SHVFS_P101_GD08_Hardy_April.exe
+C:\Users\GD Student\Desktop\2022.10.13\SHVFS_P101_GD08_Hardy_April\SHVFS_P101_GD08_Hardy_April\bin\Debug\net6.0\SHVFS_P101_GD08_Hardy_April.deps.json
+C:\Users\GD Student\Desktop\2022.10.13\SHVFS_P101_GD08_Hardy_April\SHVFS_P101_GD08_Hardy_April\bin\Debug\net6.0\SHVFS_P101_GD08_Hardy_April.runtimeconfig.json
+C:\Users\GD Student\Desktop\2022.10.13\SHVFS_P101_GD08_Hardy_April\SHVFS_P101_GD08_Hardy_April\bin\Debug\net6.0\SHVFS_P101_GD08_Hardy_April.dll
+C:\Users\GD Student\Desktop\2022.10.13\SHVFS_P101_GD08_Hardy_April\SHVFS_P101_GD08_Hardy_April\bin\Debug\net6.0\SHVFS_P101_GD08_Hardy_April.pdb
+C:\Users\GD Student\Desktop\2022.10.13\SHVFS_P101_GD08_Hardy_April\SHVFS_P101_GD08_Hardy_April\obj\Debug\net6.0\SHVFS_P101_GD08_Hardy_April.dll
+C:\Users\GD Student\Desktop\2022.10.13\SHVFS_P101_GD08_Hardy_April\SHVFS_P101_GD08_Hardy_April\obj\Debug\net6.0\refint\SHVFS_P101_GD08_Hardy_April.dll
+C:\Users\GD Student\Desktop\2022.10.13\SHVFS_P101_GD08_Hardy_April\SHVFS_P101_GD08_Hardy_April\obj\Debug\net6.0\SHVFS_P101_GD08_Hardy_April.pdb
+C:\Users\GD Student\Desktop\2022.10.13\SHVFS_P101_GD08_Hardy_April\SHVFS_P101_GD08_Hardy_April\obj\Debug\net6.0\SHVFS_P101_GD08_Hardy_April.genruntimeconfig.cache
+C:\Users\GD Student\Desktop\2022.10.13\SHVFS_P101_GD08_Hardy_April\SHVFS_P101_GD08_Hardy_April\obj\Debug\net6.0\ref\SHVFS_P101_GD08_Hardy_April.dll
