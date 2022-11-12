@@ -1,0 +1,15 @@
+C:\Users\GD Student\Desktop\2022.10.13\10.13.course\10.13.course\bin\Debug\net6.0\10.13.course.exe
+C:\Users\GD Student\Desktop\2022.10.13\10.13.course\10.13.course\bin\Debug\net6.0\10.13.course.deps.json
+C:\Users\GD Student\Desktop\2022.10.13\10.13.course\10.13.course\bin\Debug\net6.0\10.13.course.runtimeconfig.json
+C:\Users\GD Student\Desktop\2022.10.13\10.13.course\10.13.course\bin\Debug\net6.0\10.13.course.dll
+C:\Users\GD Student\Desktop\2022.10.13\10.13.course\10.13.course\bin\Debug\net6.0\10.13.course.pdb
+C:\Users\GD Student\Desktop\2022.10.13\10.13.course\10.13.course\obj\Debug\net6.0\10.13.course.csproj.AssemblyReference.cache
+C:\Users\GD Student\Desktop\2022.10.13\10.13.course\10.13.course\obj\Debug\net6.0\10.13.course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GD Student\Desktop\2022.10.13\10.13.course\10.13.course\obj\Debug\net6.0\10.13.course.AssemblyInfoInputs.cache
+C:\Users\GD Student\Desktop\2022.10.13\10.13.course\10.13.course\obj\Debug\net6.0\10.13.course.AssemblyInfo.cs
+C:\Users\GD Student\Desktop\2022.10.13\10.13.course\10.13.course\obj\Debug\net6.0\10.13.course.csproj.CoreCompileInputs.cache
+C:\Users\GD Student\Desktop\2022.10.13\10.13.course\10.13.course\obj\Debug\net6.0\10.13.course.dll
+C:\Users\GD Student\Desktop\2022.10.13\10.13.course\10.13.course\obj\Debug\net6.0\refint\10.13.course.dll
+C:\Users\GD Student\Desktop\2022.10.13\10.13.course\10.13.course\obj\Debug\net6.0\10.13.course.pdb
+C:\Users\GD Student\Desktop\2022.10.13\10.13.course\10.13.course\obj\Debug\net6.0\10.13.course.genruntimeconfig.cache
+C:\Users\GD Student\Desktop\2022.10.13\10.13.course\10.13.course\obj\Debug\net6.0\ref\10.13.course.dll
